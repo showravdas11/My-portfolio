@@ -1,0 +1,46 @@
+.project-bg{
+    background-color:#212428;
+}
+.project-bg h1{
+    color: #C4CFDE;
+    padding-top: 150px;
+    /* padding-top: 150px; */
+}
+.caro{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.my-project{
+  background-color: #1B1E22;
+  padding: 40px;
+  margin-top: 50px;
+  box-shadow: 10px 10px 19px #0a0a0a, -10px -10px 19px #262a2e,
+  10px 10px 8px #0a0a0a,  -10px -10px 8px #202225;
+border-radius: 8px;
+}
+
+.gymee-caro{
+ padding: 20px;
+}
+
+.project-head{
+  color: #08D665;
+}
+
+.live-btn{
+  background-color: #08D665;
+  padding: 8px 25px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+.git-btn{
+  background-color: #08D665;
+  padding: 8px 25px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 10px;
+}

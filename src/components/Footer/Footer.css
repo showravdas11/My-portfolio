@@ -1,0 +1,11 @@
+.Fotter-bg{
+    background-color: #212428;
+}
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-text{
+    padding-top: 150px;
+}

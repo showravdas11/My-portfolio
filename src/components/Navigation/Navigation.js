@@ -113,7 +113,7 @@ const Navigation = () => {
                     </div>
                     <div className="col-md-6">
                         <div className='man'>
-                            <img className='man-img' src="https://wp.quomodosoft.com/glint/wp-content/uploads/2019/12/author2-1.png" alt="" />
+                            <img className='man-img' src="https://i.ibb.co/F5y3DSm/ssdd-removebg.png" alt="" />
                         </div>
 
                     </div>

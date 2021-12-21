@@ -20,6 +20,9 @@
 }
 .man-img{
     width: 350px;
+    border: 5px solid #08D665;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
 }
 .man{
     display: flex;

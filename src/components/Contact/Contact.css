@@ -97,7 +97,7 @@
     resize: none;
 }
 
-.contactForm .inputBox span{
+/* .contactForm .inputBox span{
     position: absolute;
     left: 0;
     padding: 5px 0;
@@ -116,7 +116,7 @@
     color: tomato;
     font-size: 12px;
     transform: translateY(-10px);
-}
+} */
 
 .conta-btn{
     width: 100px;

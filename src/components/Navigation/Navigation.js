@@ -76,7 +76,7 @@ const Navigation = () => {
 
                 <Snowfall
                     // Changes the snowflake color
-                    color="#08D665"
+                    color="white"
                     // Applied to the canvas element
                     // style={{ background: '#fff' }}
                     // Controls the number of snowflakes that are created (default 150)

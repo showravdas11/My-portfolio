@@ -8,7 +8,7 @@ const MyProjects = () => {
     return (
         <div className='project-bg' id='project'>
             <h1 className='text-center'>Some of My Projects</h1>
-            <div className="container my-project">
+            <div className="container my-project" data-aos="fade-right">
                 <div className="row">
                     <div className="col-md-6">
                         <div className='caro'>
@@ -50,7 +50,7 @@ const MyProjects = () => {
                     </div>
                 </div>
             </div>
-            <div className="container my-project">
+            <div className="container my-project" data-aos="fade-left">
                 <div className="row">
                     <div className="col-md-6">
                         <div className='caro'>
@@ -92,7 +92,7 @@ const MyProjects = () => {
                     </div>
                 </div>
             </div>
-            <div className="container my-project">
+            <div className="container my-project" data-aos="fade-right">
                 <div className="row">
                     <div className="col-md-6">
                         <div className='caro'>
@@ -134,7 +134,7 @@ const MyProjects = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </div >
     );
 };
 

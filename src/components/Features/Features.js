@@ -5,7 +5,9 @@ const Features = () => {
         <div>
             <div className='features-bg' id='features'>
                 <h1 className='text-center'>WHAT I DO</h1>
-                <div className="container">
+                <div className="container" data-aos="fade-down"
+                    data-aos-easing="linear"
+                    data-aos-duration="1500">
                     <div className="row">
                         <div className="col-md-4">
                             <div className='details mt-5'>
